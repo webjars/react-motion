@@ -42,7 +42,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <source.url>https://github.com/chenglou/react-motion/archive</source.url>
-        <upstream.version>0.3.0</upstream.version>
+        <upstream.version>0.3.1</upstream.version>
         <upstream.url>https://github.com/chenglou/react-motion/archive</upstream.url>
         <destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${upstream.version}</destDir>
         <extractDir>${project.build.directory}/react-motion-${upstream.version}</extractDir>
